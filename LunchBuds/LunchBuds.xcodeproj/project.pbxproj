@@ -13,6 +13,7 @@
 		EB238B0B2728792F00B2C0B7 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB238B0A2728792F00B2C0B7 /* Preview Assets.xcassets */; };
 		EB238B0D2728792F00B2C0B7 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB238B0C2728792F00B2C0B7 /* Persistence.swift */; };
 		EB238B102728792F00B2C0B7 /* LunchBuds.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = EB238B0E2728792F00B2C0B7 /* LunchBuds.xcdatamodeld */; };
+		EBD0606E272F9E6500E417DF /* tutorial.swift in Sources */ = {isa = PBXBuildFile; fileRef = EBD0606D272F9E6400E417DF /* tutorial.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		EB238B0A2728792F00B2C0B7 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		EB238B0C2728792F00B2C0B7 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		EB238B0F2728792F00B2C0B7 /* LunchBuds.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = LunchBuds.xcdatamodel; sourceTree = "<group>"; };
+		EBD0606D272F9E6400E417DF /* tutorial.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = tutorial.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 			isa = PBXGroup;
 			children = (
 				EB238B032728792A00B2C0B7 /* LunchBudsApp.swift */,
+				EBD0606D272F9E6400E417DF /* tutorial.swift */,
 				EB238B052728792A00B2C0B7 /* ContentView.swift */,
 				EB238B072728792F00B2C0B7 /* Assets.xcassets */,
 				EB238B0C2728792F00B2C0B7 /* Persistence.swift */,
@@ -147,6 +150,7 @@
 				EB238B062728792A00B2C0B7 /* ContentView.swift in Sources */,
 				EB238B102728792F00B2C0B7 /* LunchBuds.xcdatamodeld in Sources */,
 				EB238B042728792A00B2C0B7 /* LunchBudsApp.swift in Sources */,
+				EBD0606E272F9E6500E417DF /* tutorial.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
