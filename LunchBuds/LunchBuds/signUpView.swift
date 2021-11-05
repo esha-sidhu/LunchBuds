@@ -51,7 +51,7 @@ struct SignUpTitleText: View {
             .font(.system(size: 30))
             .frame(width: 200, height: 20, alignment: .leading)
             
-            .padding(.trailing, 130)
+            .padding(.trailing, 95)
             .padding(.top, 40)
             .padding(.bottom, 10)
     }
