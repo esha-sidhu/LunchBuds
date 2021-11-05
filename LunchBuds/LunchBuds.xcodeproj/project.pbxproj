@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		4E8E1D19273498D500E41274 /* signUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E8E1D18273498D500E41274 /* signUpView.swift */; };
 		EB238B042728792A00B2C0B7 /* LunchBudsApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB238B032728792A00B2C0B7 /* LunchBudsApp.swift */; };
 		EB238B062728792A00B2C0B7 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = EB238B052728792A00B2C0B7 /* ContentView.swift */; };
 		EB238B082728792F00B2C0B7 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = EB238B072728792F00B2C0B7 /* Assets.xcassets */; };
@@ -17,6 +18,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		4E8E1D18273498D500E41274 /* signUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = signUpView.swift; sourceTree = "<group>"; };
 		EB238B002728792A00B2C0B7 /* LunchBuds.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LunchBuds.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		EB238B032728792A00B2C0B7 /* LunchBudsApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LunchBudsApp.swift; sourceTree = "<group>"; };
 		EB238B052728792A00B2C0B7 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 			children = (
 				EB238B032728792A00B2C0B7 /* LunchBudsApp.swift */,
 				EBD0606D272F9E6400E417DF /* tutorial.swift */,
+				4E8E1D18273498D500E41274 /* signUpView.swift */,
 				EB238B052728792A00B2C0B7 /* ContentView.swift */,
 				EB238B072728792F00B2C0B7 /* Assets.xcassets */,
 				EB238B0C2728792F00B2C0B7 /* Persistence.swift */,
@@ -148,6 +151,7 @@
 			files = (
 				EB238B0D2728792F00B2C0B7 /* Persistence.swift in Sources */,
 				EB238B062728792A00B2C0B7 /* ContentView.swift in Sources */,
+				4E8E1D19273498D500E41274 /* signUpView.swift in Sources */,
 				EB238B102728792F00B2C0B7 /* LunchBuds.xcdatamodeld in Sources */,
 				EB238B042728792A00B2C0B7 /* LunchBudsApp.swift in Sources */,
 				EBD0606E272F9E6500E417DF /* tutorial.swift in Sources */,
